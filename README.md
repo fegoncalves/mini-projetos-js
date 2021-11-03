@@ -1,4 +1,7 @@
-# Mini Projeto em JavaScript para Iniciantes #
+# Mini Projeto em JavaScript para Iniciantes
+---
 
-### Objetivo ###
+### Objetivo
 Repositório criado para compartilhamento de mini projetos em JavaScript.
+
+* <a href="./dino-gamer/">Dino Gamer</a>
